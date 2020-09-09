@@ -1,0 +1,26 @@
+﻿Temperature,Exposure,Stage,Sex,% Mort
+30,12,3,Juvenile,6
+40,1,3,Juvenile,0
+49,12,3,Juvenile,28
+0,1,3,Juvenile,0
+0,12,3,Juvenile,52
+30,12,4,Juvenile,8
+40,1,4,Juvenile,20
+49,12,4,Juvenile,16
+0,1,4,Juvenile,4
+0,12,4,Juvenile,68
+30,12,5,Juvenile,4
+40,1,5,Juvenile,8
+49,12,5,Juvenile,7
+0,1,5,Juvenile,2
+0,12,5,Juvenile,32
+30,12,5,Male,30.8
+40,1,5,Male,12
+49,12,5,Male,32
+0,1,5,Male,6
+0,12,5,Male,34
+30,12,5,Female,41.9
+40,1,5,Female,8
+49,12,5,Female,52
+0,1,5,Female,14
+0,12,5,Female,39
